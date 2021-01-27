@@ -1,3 +1,5 @@
 flask-venv/
 snippets/
 __pycache__/
+flaskblog/static/css
+flaskblog/static/js
